@@ -33,8 +33,8 @@ Improved version of RaceMP with Formation Lap Free Practice Qualifying sessions 
 | `/start`                  | Start the Race                                   |
 | `/set laps=12`            | Set number of laps                               |
 | `/list`                   | List available track layouts                     |
-| `/set track=Track_Name`   | Set the track                                    |
-| `/set raceName=Race_Name` | Set the name of the race                         |
+| `/set track=Track_Name`   | Set the track (example: /set track=race_track_long) |
+| `/set raceName=Race_Name` | Set the name of the race (example: /set raceName=F4_Race) |
 ## Credits
 
 - **Original Mod**: [RaceMP] by **Dudekahedron** & **Funky7Monkey** (2023)
